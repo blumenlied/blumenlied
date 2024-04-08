@@ -1,1 +1,1 @@
-### God's computer science student
+# God's favorite computer science student
